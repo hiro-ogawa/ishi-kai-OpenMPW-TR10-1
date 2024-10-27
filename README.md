@@ -41,6 +41,10 @@ bash ./pdk_TR-setup.sh
 
 ![ivd](images/ivd.png)
 
+## レイアウト
+
+![layout](images/layout.png)
+
 ## 感想
 
 - とりあえず最後まで完走できた
